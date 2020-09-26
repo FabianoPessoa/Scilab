@@ -2,6 +2,8 @@
  =====================================================
  COMANDOS DE FORMATAC,A'O MARKDOWN 
  ---------------------------------------------------------------
+ Dois espaços quebram as linhas em todos os pontos.
+
  Tamanhos de Texto:
  
  #Markdown  
