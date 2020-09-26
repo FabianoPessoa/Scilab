@@ -24,11 +24,11 @@ Taslists:
 [ ] Testar os programas antes de commitar.
 
 Cógidos comentados dentro do programa:
-```
+~~~Linguagem C
 #include<stdio.h>
 
 int main()
 { printf("\n Primeiro programa comentado");
   return 0;
 }
-```
+~~~
