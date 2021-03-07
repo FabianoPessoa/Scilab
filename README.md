@@ -1,8 +1,7 @@
 # Scilab
- =====================================================
- COMANDOS DE FORMATAC,A'O MARKDOWN 
- ---------------------------------------------------------------
- Dois espaços quebram as linhas em todos os pontos.
+ COMANDOS DE FORMATAÇÃO
+ 
+   Dois espaços quebram as linhas em todos os pontos.
 
  Tamanhos de Texto:
  
@@ -22,7 +21,9 @@ Cotas:
 Taslists:  
 
 [x] Incrementar programas;
+
 [ ] Continuar commintando;
+
 [ ] Testar os programas antes de commitar.
 
 Cógidos comentados dentro do programa:
