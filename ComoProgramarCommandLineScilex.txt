@@ -1,0 +1,19 @@
+/*============================================
+******** Executanto do Scilex.exe ************
+* Sistemas Operacional:		 Windows 10
+* Autor: Fabiano Pessoa		Anos:2021
+*---------------------------------------------
+*/
+Vá no diretório do binário C:\...\bin\scilex
+Faça:
+C:\...\bin>scilex -f 0_diretorio_de_progamas\<nome_do_arquivo>.sci
+O programa será executado automaticamente.
+// Configurei a varia'vel de ambiente no windows
+// Painel de controle/Sistema/Variáveis de Ambiente do Usua'rio
+// ... Path/ [Editar] Aparece uma lista caminhos:
+// Colocar o caminho path do direto'rio bin do Scilab que
+// conte'm o Scilex.exe
+// Depois escreve o programa num direto'rio de programas
+// Faça:
+// C:\...\Diretorio do programa> Scilex -nwni -f <programa.sce>
+// C:\...\diretorio_do_programa> Scilex -nwni -f <programa.sce> 
